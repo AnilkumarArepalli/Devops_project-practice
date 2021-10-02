@@ -22,12 +22,12 @@
   <repository>
      <id>package</id>
      <name>package</name>
-     <url>http://3.108.254.22:8081/#browse/browse/components:package/</url>
+     <url>http://3.108.254.22:8081/repository/package/</url>
   </repository>
   <snapshotRepository>
      <id>snapshots</id>
      <name>Snapshots</name>
-     <url>http://3.108.254.22:8081/#browse/browse/components:snapshots/</url>
+     <url>http://3.108.254.22:8081/repository/snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
