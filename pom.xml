@@ -19,24 +19,15 @@
     <finalName>DevOpsRocks</finalName>
   </build>
   <distributionManagement>
-  <repository>
-     <id>mavencenteal</id>
-     <name>mavencentral</name>
-     <url>http://15.207.115.141:8081/repository/mavencentral/</url>
-    <repository>
-     <id>mavengroup</id>
-     <name>mavengroup</name>
-     <url>http://15.207.115.141:8081/repository/mavengroup/</url>
-  </repository>
   <Repository>
-     <id>mavenrelease</id>
-     <name>mavenrelase</name>
-     <url>http://15.207.115.141:8081/repository/mavenrelease/</url>
+     <id>package</id>
+     <name>package</name>
+     <url>http://15.207.115.141:8081/repository/package/</url>
   </Repository>
     <snapshotRepository>
-     <id>mavensnapshots</id>
-     <name>mavensnapshots</name>
-     <url>http://15.207.115.141:8081/repository/mavensnapshots/</url>
+     <id>snapshots</id>
+     <name>napshots</name>
+     <url>http://15.207.115.141:8081/repository/snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
